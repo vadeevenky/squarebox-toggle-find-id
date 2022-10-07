@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.boxmodel {
+  width: 100px;
+  height: 100px;
+
+  display: inline-block;
+  border: 2px solid black;
+  margin-right: 4px;
+
+  border-radius: 4px;
+}
